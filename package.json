@@ -1,0 +1,21 @@
+{
+  "name": "test-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pola-lorges/test-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pola-lorges/test-jenkins/issues"
+  },
+  "homepage": "https://github.com/pola-lorges/test-jenkins#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1"
+  }
+}
